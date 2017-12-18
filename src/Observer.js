@@ -57,7 +57,7 @@ export default class{
     }
 
     /**
-     * 将传入的事件信号和数据，做一些处理
+     * 将传入的事件和数据，做一些处理
      * 
      * @param {any} event 事件
      * @param {any} payload 数据
